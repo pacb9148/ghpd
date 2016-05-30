@@ -1,2 +1,2 @@
 # ghpd
-# Bienvenido a curs de Github para desarrolladores
+# Bienvenido a curso de Github para desarrolladores
